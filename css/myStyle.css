@@ -1,0 +1,128 @@
+/* ELEMENTS */
+body
+{
+	font-family: Verdana;
+	font-size: 1.1em;
+}
+
+/* CLASS */
+.bold
+{
+	font-weight: bold;
+}
+.cell
+{
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	line-height: 30px;
+}
+
+.center
+{
+	text-align: center;
+}
+
+.centerWelcome
+{
+	width: 100%;
+	text-align: center;
+	font-size: 24pt;
+	font-weight: bold;
+}
+
+.fontRegistration
+{
+	font-size: 0.9em;
+}
+
+.field
+{
+	float: left;
+	width: 25%;
+	margin-bottom: 7px;
+}
+
+.fullRow
+{
+	float: left; 
+	width: 100%;
+}
+
+.green
+{
+	color: green;
+}
+
+.header
+{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+	font-weight: bold;
+}
+
+.hidden
+{
+	display: none;
+}
+
+.input
+{
+	float: left;
+	width: 75%;
+	margin-bottom: 7px;
+}
+
+.lastborder
+{
+	border-right: 1px solid black
+}
+
+.leftborder
+{
+	border-left: 1px solid black;
+}
+
+.loginForm
+{
+	width: 500px;
+}
+
+.margin-down
+{
+	margin-bottom: 20px;
+}
+
+.red
+{
+	color: red;
+}
+
+.registrationBox
+{
+	width: 750px;
+}
+
+.row
+{
+	float: left;
+	width: 20%;
+}
+
+.rowAction
+{
+	float: left;
+	width: 14%;
+}
+
+.rowID
+{
+	float: left;
+	width: 5%;
+}
+
+.table
+{
+	width: 100%;
+	float: left;
+}
